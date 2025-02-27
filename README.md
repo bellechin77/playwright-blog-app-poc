@@ -46,7 +46,7 @@ The tests are built using the **Page Object Model (POM)** for better maintainabi
 
 ```bash
 git clone https://github.com/bellechin77/playwright-blog-app-poc.git
-cd playwright-blog-app
+cd playwright-blog-app-poc
 ```
 
 ### 2️⃣ **Install Dependencies**
